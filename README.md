@@ -1,5 +1,4 @@
 
-# Repo for MIST4610 group project on restaurants.
 # Team 6 MIST 4610: Group Project 1
 
 ## Team Members
