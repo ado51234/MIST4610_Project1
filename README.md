@@ -1,5 +1,5 @@
 
-#Repo for MIST4610 group project on restaurants.
+# Repo for MIST4610 group project on restaurants.
 # Team 6 MIST 4610: Group Project 1
 
 ## Team Members
@@ -32,5 +32,10 @@ The Menu_Items table stores each dish’s name, calories, price, and category, w
 To manage kitchen operations, the Ingredients table lists all ingredients used in recipes and connects to Suppliers, forming a one-to-many relationship where each supplier provides multiple ingredients. The many-to-many relationship between Menu_Items and Ingredients is handled through Item_Ingredients, which specifies the quantity of each ingredient used in a dish.
 
 Together, these entities form a complete operational model of the restaurant. Managers can track reservations, orders, payments, employee roles, and inventory in one place, supporting smoother coordination between the front-of-house, kitchen, and management teams—leading to better efficiency, accuracy, and decision-making.
+
+
+## Data Model
+
+![App Screenshot](https://github.com/ado51234/MIST4610_Project1/raw/main/FinalModel.png)
 
 
