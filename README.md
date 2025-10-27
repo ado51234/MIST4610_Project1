@@ -5,7 +5,7 @@
 - Adriano Onate [@ado51234](https://github.com/ado51234)
 - Maxwell Shank [@mshank10](https://github.com/MShank10)
 - Kipras Kairys [@kipraskairys](https://github.com/KiprasKairys/62775_GroupProject1-Restaurant)
-- Robert Backe 
+- Robert Backe  [@robertbacke](https://github.com/robertbacke)
 - Kevin Behlke [@kwb95124](https://github.com/kwb95124)
 
 ## Project Description
